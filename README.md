@@ -49,7 +49,7 @@ to create a fully working ISO-105 compatible keyboard with your own microcontrol
 | ß  | 45  | 0x2D |
 | ä  | 52  | 0x34 |
 | ü  | 47  | 0x2F |
-| ö  | 49  | 0x31 |
+| ö  | 51  | 0x33 |
 | Enter  | 40  | 0x28 |
 | Backspace  | 42  | 0x2A |
 | Space  | 44  | 0x2C |
